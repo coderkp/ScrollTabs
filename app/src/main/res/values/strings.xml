@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multicast</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="packets_received">Packets Received</string>
+    <string name="connect">Tune In</string>
+    <string name="enter_port">Enter Port</string>
+    <string name="DefaultPort">6789</string>
+    <string name="IP_add">Enter IP Adress</string>
+    <string name="DefaultIP">228.5.6.7</string>
+    <string name="status">Status</string>
+    <string name="status_inactive">Status: Inactive</string>
+
+</resources>
